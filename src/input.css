@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --fontlogo: "Libre Bodoni", serif;
+    --color-primary: #6B4F3F;
+}
